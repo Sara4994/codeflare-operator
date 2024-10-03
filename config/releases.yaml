@@ -1,0 +1,8 @@
+releases:
+  - displayname: "codeflare operator"
+    version: "1.0.0"
+    repourl: "github.com/opendatahub/codeflare"
+  - displayname: "codeflare operator2"
+    version: "2.0.0"
+    repourl: "github.com/opendatahub/codeflare2"
+    
